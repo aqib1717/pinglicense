@@ -1,0 +1,12 @@
+ID=00735684
+Product=PingDirectory
+Version=10.1
+EnforcementType=3
+Tier=Free
+IssueDate=2024-11-22
+ExpirationDate=2024-12-22
+GracePeriod=1
+DeploymentMethod=Traditional
+Organization=Curator Video
+SignCode=FF03
+Signature=302C02147D3463A51A0BD2A4993603AFD425E267920D979302145EADA54E85C13C3BD21B3269F941FC6BF1CBB22B

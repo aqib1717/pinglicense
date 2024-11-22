@@ -1,0 +1,15 @@
+ID=00735683
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=12.1
+EnforcementType=3
+Tier=Free
+IssueDate=2024-11-22
+ExpirationDate=2024-12-22
+GracePeriod=1
+DeploymentMethod=Traditional
+Organization=Curator Video
+SignCode=FF1F
+Signature=302C02143547E02A8E8DDC22F165B94234445406822B71DC02141BDF55241417F84FD2B2C3190BCDFBCBF9639CD1
